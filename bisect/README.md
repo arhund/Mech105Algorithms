@@ -1,4 +1,4 @@
-## Bisection
+# Bisection
 ## What is Bisect?
 Bisect is a root finding method that continually cuts the interval in half, checks to see if there is a sign change (a way to check if the root is inside the interval), and then continues to itterate until the error is low enough.
 ## Inside the Algorithm
